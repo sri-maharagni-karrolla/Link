@@ -1,0 +1,1 @@
+open mongodb :create a database and name it and give collection
